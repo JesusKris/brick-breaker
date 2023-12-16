@@ -16,6 +16,8 @@ This project was made as a school project in [kood/Jõhvi](https://kood.tech/) (
 
 The project required us to recreate one of the many legacy games. We chose BrickBreaker.
 
+**NB! Different source control platform was used hence no commit history.**
+
 ## Features
 - 3 different difficulties
 - Keyboard controls
